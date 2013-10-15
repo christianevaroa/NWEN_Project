@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modes_array">
+        <item>Bus</item>
+        <item>School</item>
+        <item>Train</item>
+        <item>Other</item>
+    </string-array>
+    
+    <string-array name="train_routes">
+        <item>HVL</item>
+        <item>JVL</item>
+        <item>KPL</item>
+    </string-array>
+    
+    <string-array name="direction">
+        <item>inbound</item>
+        <item>outbound</item>
+    </string-array>
+    
+</resources>
